@@ -800,3 +800,16 @@
 .-bg--{
     background: linear-gradient(to top,#F8F8F8 50%, #FFFFFF 50%);
 }
+.btn--2:hover{
+    color: black;
+    background-color:transparent;
+    border: none;
+    transform: scale(1.2);
+}
+.btn--1:hover{
+    color: #F53838;
+    background-color:transparent;
+    border: 1px solid #F53838;
+    border-radius: 25px;
+    padding: 10px 40px;
+}
